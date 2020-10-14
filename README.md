@@ -1,4 +1,6 @@
-# Topgyal_Portfolio
+<img align="right" width="100" height="100" src="Images/tops.jpg">
+
+# Topgyal Gurung Portfolio
 Data Science Portfolio
 
 ## [Project 1](https://github.com/topgyaltsering/dataAnalysiswithPython)
@@ -8,7 +10,6 @@ Data Science Portfolio
 * Optimized ..
 * Built ..
 
-![](/Images/)
 
 ## [Project 2]()
 * Created ..
