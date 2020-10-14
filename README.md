@@ -42,6 +42,8 @@ different tables and databases for complex business logic.
 * Used Advanced Javascript concepts, DOM Manipulation, external API requests
 * Built full stack web application with React, Redux, Node, Express, Sequelize ORM for PostgreSQL and deployed in Heroku
 
+## Resources
+
 ### Data-Science Resources
 
 1. [Bloomberg free Machine Learning course](https://bloomberg.github.io/foml/#home)
@@ -49,9 +51,9 @@ different tables and databases for complex business logic.
 3. [Springboard Machine Learning Syllabus pdf](https://ddf46429.springboard.com/uploads/resources/1562950363_Machine_Learning_Engineering_Career_Track_Syllabus.pdf)
 4. [Springboard Data Science Syllabus pdf](https://ddf46429.springboard.com/uploads/resources/1558636458_DSC-syllabus.pdf)
 
-#### Data Warehouse
-- [Panoply Data Warehouse Guide](https://panoply.io/data-warehouse-guide)
+  * Data Warehouse
+  - [Panoply Data Warehouse Guide](https://panoply.io/data-warehouse-guide)
 
-#### Data Modeling
-- [Database Answers](http://www.databaseanswers.org/)
+  * Data Modeling
+    - [Database Answers](http://www.databaseanswers.org/)
 
