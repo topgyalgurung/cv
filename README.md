@@ -27,7 +27,7 @@ different tables and databases for complex business logic.
 * Solved complex issue in frontend report map chart for deck.gl polygon geovisualization using Well Known Text(WKT) with efficient BigQuery SQL queries.
 
 ### 2. Student ML Researcher for Statistical Machine Learning & Translation Group 
-> [Professor Jia Xu](http://www.jiaxu.org/)at Hunter College 
+> [Professor Jia Xu](http://www.jiaxu.org/) at Hunter College 
 
 * Gained in-depth concepts on NLP, deep learning models by analyzing state of the art models research paper on arXiv repo like [codenn](https://github.com/sriniiyer/codenn)
 * Experimented with models to implement on crime prediction datasets
