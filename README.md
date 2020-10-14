@@ -1,9 +1,8 @@
 <img align="right" width="100" height="100" src="Images/tops.jpg">
-
 # Topgyal Gurung Portfolio
 Data Science Portfolio
 
-## [Data Analysis Project: Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
+### [Data Analysis Project: Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
 [_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
 
 **[Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera**
