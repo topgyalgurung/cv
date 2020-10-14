@@ -8,9 +8,11 @@ Data Science Portfolio
 * Optimized ..
 * Built ..
 
-![]( )
+![](/Images/)
 
-## [Project 2]
-agjalk a
-ga 
-aga gag aga adga 
+## [Project 2]()
+* Created ..
+* Scraped ..
+* Engineered ..
+* Optimized ..
+* Built ..
