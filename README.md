@@ -52,7 +52,7 @@ different tables and databases for complex business logic.
 4. [Springboard Data Science Syllabus pdf](https://ddf46429.springboard.com/uploads/resources/1558636458_DSC-syllabus.pdf)
 
   * Data Warehouse
-  - [Panoply Data Warehouse Guide](https://panoply.io/data-warehouse-guide)
+    - [Panoply Data Warehouse Guide](https://panoply.io/data-warehouse-guide)
 
   * Data Modeling
     - [Database Answers](http://www.databaseanswers.org/)
