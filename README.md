@@ -2,14 +2,14 @@
 
 ## Projects
 
-### 1. [Data Analysis Project: Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
-[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
+### 1. Data Analysis with Python
+>[Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
 
 * Gained skills in Predictive modeling, python programming, DataViz and model selection
 * Hands on Labs for importing datasets, data wrangling, exploratory, data analysis, model development, model evaluation and final project to [analyse and predict housing prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
 * Dedicated for 6 weeks for atleast 2 hours per week.
-*[__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera**
-
+* [__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera**
+>[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
 
 ### 2. In Progress (85%) [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online)
 * Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
@@ -34,7 +34,8 @@ different tables and databases for complex business logic.
 
 ## Others
 
-### Student Software Engineer at NYC Tech Talent Pipeline, [Cuny 2x Tech](https://www.techtalentpipeline.nyc/cs-doubling)
+### Student Software Engineer at NYC Tech Talent Pipeline
+>[Cuny 2x Tech](https://www.techtalentpipeline.nyc/cs-doubling)
 
 * Selected for competitive boot-camp: [Tech Talent Pipeline Residency](https://github.com/huntercuny2x/summer19bootcamp) that covered full-stack software development in Agile Scrum
 * Used Advanced Javascript concepts, DOM Manipulation, external API requests
