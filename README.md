@@ -18,7 +18,7 @@ Data Science Portfolio
 
 ## Data Science Experiences
 
-### 1. Data Analyst/Engineer Intern at Real Factors (now Acquired by Real Factors)
+### 1. Data Analyst/Engineer Intern at Real Factors (now Acquired by 7Park Data)
 
 * Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, and sub-queries involving multiple tables from
 different tables and databases for complex business logic.
