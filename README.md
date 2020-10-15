@@ -42,6 +42,79 @@ different tables and databases for complex business logic.
 * Used Advanced Javascript concepts, DOM Manipulation, external API requests
 * Built full stack web application with React, Redux, Node, Express, Sequelize ORM for PostgreSQL and deployed in Heroku
 
+---
+
+* __[Learn more About Me](https://about.me/topgyal)__
+* __[Check out my Medium blogs](https://medium.com/@topgyaltsering)__
+
+### Certificates
+- [Microsoft Power BI- Up & Running with Power BI Desktop](https://udemy-certificate.s3.amazonaws.com/image/UC-a2a41c94-e91b-42ca-94c0-fa7383c9d36b.jpg)
+- [Power BI- Publishing to Power BI Service](https://www.udemy.com/certificate/UC-25528088-299c-4b50-9958-830b48ef82f1/)
+- [Tableau Visual Best Practices](https://www.udemy.com/certificate/UC-9994919d-1960-4409-ab6f-80d1a1fd32ca/)
+- [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
+- [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
+
+## Basic Git Commands
+- git init 
+- git clone repo_url
+- git checkout -b branch_name
+- git checkout branch_name
+- git checkout master
+- git checkout -d branch_name
+- git add .
+- git commit -m "msg"
+- git push origin branch_name
+- git pull origin branch_name
+- git merge branch_name
+- git branch --all
+- git remote -v
+- git stash
+- git log
+- git diff
+- git show head
+
+### Cool Tools
+
+- [Coogle - Mind Map & Flow chart](https://coggle.it/)
+- [LucidChart](https://www.lucidchart.com/)
+
+### Teach Yourself 
+- [Codecademy]
+- [Codeschool]
+- [coursera]
+- [edx cs50]
+- [udemy]
+- [sololearn]
+- [MVA Microsoft Virtual Academy]
+- [Lynda]
+- [Codefights]
+- [Teachyourselfcode.com]
+- [code.org]
+- [MIT Scratch]
+- [w3schools]
+- [Stackoverflow]
+- [thenewboston]
+- [MITOPENCOURSEWARE]
+- [Raywenderlich]
+- [Udacity]
+
+### Top Online Programming Contest
+- Google Code Jam Contestup
+- Microsoft Imagine Cup
+- Facebook Puzzles
+- ACM-IPC
+- Codechef
+- Dream In Code
+- ICFP Programming Contest
+- TopCoder Contest
+- Python Challenge
+- Hewlett Packard (HP) Codewars
+- Codeforces
+- Sphere Online Judge (spoj)
+
+## [Bulk Repo Remover](https://reporemover.xyz/)
+
+___
 ## Resources
 
 ### Data-Science Resources
