@@ -54,6 +54,7 @@ different tables and databases for complex business logic.
 - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
 
+<!-- 
 ## Basic Git Commands
 - git init 
 - git clone repo_url
@@ -129,4 +130,5 @@ ___
 
   * Data Modeling
     - [Database Answers](http://www.databaseanswers.org/)
-
+    
+-->
