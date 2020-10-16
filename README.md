@@ -44,15 +44,15 @@ different tables and databases for complex business logic.
 
 ---
 
-* __[Learn more About Me](https://about.me/topgyal)__
-* __[Check out my Medium blogs](https://medium.com/@topgyaltsering)__
-
 ### Certificates
 - [Microsoft Power BI- Up & Running with Power BI Desktop](https://udemy-certificate.s3.amazonaws.com/image/UC-a2a41c94-e91b-42ca-94c0-fa7383c9d36b.jpg)
 - [Power BI- Publishing to Power BI Service](https://www.udemy.com/certificate/UC-25528088-299c-4b50-9958-830b48ef82f1/)
 - [Tableau Visual Best Practices](https://www.udemy.com/certificate/UC-9994919d-1960-4409-ab6f-80d1a1fd32ca/)
 - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
+
+> __[Learn more About Me](https://about.me/topgyal)__
+> __[Check out my Medium blogs](https://medium.com/@topgyaltsering)__
 
 [<img align="center" width="30" height="30" src="Images/medium-line.png">](https://medium.com/@topgyaltsering)
 [<img align="center" width="30" height="30" src="Images/twitter-fill.png">](https://twitter.com/topgyalgurung)
