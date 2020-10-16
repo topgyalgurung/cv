@@ -6,7 +6,7 @@
 >[Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
 
 * Gained skills in Predictive modeling, python programming, DataViz and model selection
-* Hands on Labs for importing datasets, data wrangling, exploratory, data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
+* Hands on Labs for importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
 * Dedicated for 6 weeks for atleast 2 hours per week.
 * [__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
 >[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
