@@ -52,7 +52,6 @@ different tables and databases for complex business logic.
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
 
 > __[Learn more About Me](https://about.me/topgyal)__
-> __[Check out my Medium blogs](https://medium.com/@topgyaltsering)__
 
 [<img align="center" width="30" height="30" src="Images/medium-line.png">](https://medium.com/@topgyaltsering)
 [<img align="center" width="30" height="30" src="Images/twitter-fill.png">](https://twitter.com/topgyalgurung)
