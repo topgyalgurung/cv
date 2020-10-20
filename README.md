@@ -13,7 +13,6 @@
 
 ### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) In Progress (85%) 
 * Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
-* Created, Scraped, Engineered, Optimized, Built ..
 
 ## Data Science Experiences
 
