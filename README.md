@@ -38,8 +38,9 @@ different tables and databases for complex business logic.
 * [__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
 >[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
 
-### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) In Progress (97%) 
-- Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
+### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
+
+* Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
 ---
 
 ### Certificates
