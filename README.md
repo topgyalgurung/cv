@@ -2,7 +2,7 @@
 
 ## Data Science Experiences
 
-### 1. Data Analyst/Engineer Intern at Real Factors (now Acquired by 7Park Data)
+### 1. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
 
 * Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, and sub-queries involving multiple tables from
 different tables and databases for complex business logic.
@@ -19,6 +19,9 @@ different tables and databases for complex business logic.
 * Trained deep learning models on CUNY HPC using TensorFlow, PyTorch, linux and Nvidia CUDA to test performance 
 
 ## Others
+
+### Software Developer Intern at Dextro Software Systems April 2020 - August 2020
+> 
 
 ### Student Software Engineer at NYC Tech Talent Pipeline
 >[Cuny 2x Tech](https://www.techtalentpipeline.nyc/cs-doubling)
