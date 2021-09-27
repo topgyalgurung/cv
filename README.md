@@ -53,8 +53,6 @@ different tables and databases for complex business logic.
 - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
 
-> __[Learn more About Me](https://about.me/topgyal)__
-
 [<img align="center" width="30" height="30" src="Images/medium-line.png">](https://medium.com/@topgyaltsering)
 [<img align="center" width="30" height="30" src="Images/twitter-fill.png">](https://twitter.com/topgyalgurung)
 [<img align="center" width="30" height="30" src="Images/mail-fill.png">](topgyaltsering3@gmail.com)
