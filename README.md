@@ -1,6 +1,6 @@
 <img align="right" width="100" height="100" src="Images/tops.jpg">
 
-## Data Science Experiences
+## Experiences
 
 ### 1. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
 
@@ -18,6 +18,11 @@ different tables and databases for complex business logic.
 * Experimented with models to implement on crime prediction datasets
 * Trained deep learning models on CUNY HPC using TensorFlow, PyTorch, linux and Nvidia CUDA to test performance 
 
+### 3. NYC Tech Talent Pipeline, Hunter College, NY—Tech Fellow
+> March 2019 - June 2019
+* Selected for competitive boot-camp that covered full-stack software development methodology in Agile Scrum
+Built full-stack web app with React, Redux, Node, Express, Sequelize ORM
+
 ## Others
 
 ### Student Software Engineer at NYC Tech Talent Pipeline
@@ -26,6 +31,10 @@ different tables and databases for complex business logic.
 * Selected for competitive boot-camp: [Tech Talent Pipeline Residency](https://github.com/huntercuny2x/summer19bootcamp) that covered full-stack software development in Agile Scrum
 * Used Advanced Javascript concepts, DOM Manipulation, external API requests
 * Built full stack web application with React, Redux, Node, Express, Sequelize ORM for PostgreSQL and deployed in Heroku
+
+### Hunter CUNY 2X, Manhattan, NY — Curriculum Consultant
+> Aug 2020 - Feb 2021
+* Researched various cybersecurity curriculum resources & participated in 13 weeks Codepath CyberSecurity Course at Baruch College
 
 ## Projects
 
@@ -41,6 +50,25 @@ different tables and databases for complex business logic.
 ### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
 
 * Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
+
+### 3. Microsoft Business Intelligence Stack
+https://github.com/topgyaltsering/msbi
+- Learned Advanced TSQL: views, stored procedure, CTEs, triggers
+- Worked on SQL Server Management Studio (SSMS) 
+- SSIS Integration tool for OLTP
+- SSAS for OLAP 
+- SSRS, Power BI for Reporting
+
+### Coursera Python for Everybody by University of Michigan
+> Mar 2021- July 2021
+> https://github.com/topgyaltsering/python_for_everybody_hw
+* Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
+
+### Machine Learning Algorithms from Scratch - Dec 2019 github.com/topgyaltsering/capstone-project
+* Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
+
+### CunyFirst2.0, Full Stack Web App - June 2019 github.com/db101097/CunyFirst2.0
+* Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
 ---
 
 ### Certificates
