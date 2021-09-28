@@ -53,10 +53,20 @@ different tables and databases for complex business logic.
 - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
 
-[<img align="center" width="30" height="30" src="Images/medium-line.png">](https://medium.com/@topgyaltsering)
+<a href="https://www.linkedin.com/in/topgyaltsering/">
+  <img align="left" alt="Topgyal Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<a href="https://topgyaltsering.com">
+  <img align="left" alt="Topgyal Tsering Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+<a href="https://twitter.com/tseringtopke">
+  <img align="left" alt="Topgyal Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
+
+<!-- [<img align="center" width="30" height="30" src="Images/medium-line.png">](https://medium.com/@topgyaltsering)
 [<img align="center" width="30" height="30" src="Images/twitter-fill.png">](https://twitter.com/topgyalgurung)
 [<img align="center" width="30" height="30" src="Images/mail-fill.png">](topgyaltsering3@gmail.com)
-[<img align="center" width="30" height="30" src="Images/linkedin-box-fill.png">](https://www.linkedin.com/in/topgyaltsering/)
+[<img align="center" width="30" height="30" src="Images/linkedin-box-fill.png">](https://www.linkedin.com/in/topgyaltsering/) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=topgyaltsering.Topgyal_Portfolio)
 
