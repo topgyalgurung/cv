@@ -4,10 +4,10 @@
 
 ### 1. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
 
-* Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, and sub-queries involving multiple tables from
+* Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, CTEs and sub-queries involving multiple tables from
 different tables and databases for complex business logic.
 * Analyzed public, private and proprietary datasets in Google Cloud Big Query Analytics Datawarehouse
-* Constructed ELT and used transformations, aggregations and filtered data in Data Catalog
+* Constructed ELT and used transformations, aggregations and filtered data on Data Catalog
 * Created charts, dashboards and reports in Company's Data Catalog integrated with Apache Superset Business Intelligence Web Appication
 * Solved complex issue in frontend report map chart for deck.gl polygon geovisualization using Well Known Text(WKT) with efficient BigQuery SQL queries.
 
@@ -19,9 +19,6 @@ different tables and databases for complex business logic.
 * Trained deep learning models on CUNY HPC using TensorFlow, PyTorch, linux and Nvidia CUDA to test performance 
 
 ## Others
-
-### Software Developer Intern at Dextro Software Systems April 2020 - August 2020
-> 
 
 ### Student Software Engineer at NYC Tech Talent Pipeline
 >[Cuny 2x Tech](https://www.techtalentpipeline.nyc/cs-doubling)
