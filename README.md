@@ -59,15 +59,16 @@ https://github.com/topgyaltsering/msbi
 - SSAS for OLAP 
 - SSRS, Power BI for Reporting
 
-### Coursera Python for Everybody by University of Michigan
-> Mar 2021- July 2021
+### Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
 > https://github.com/topgyaltsering/python_for_everybody_hw
 * Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
 
-### Machine Learning Algorithms from Scratch - Dec 2019 github.com/topgyaltsering/capstone-project
+### Machine Learning Algorithms from Scratch - Dec 2019
+> github.com/topgyaltsering/capstone-project
 * Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
 
-### CunyFirst2.0, Full Stack Web App - June 2019 github.com/db101097/CunyFirst2.0
+### CunyFirst2.0, Full Stack Web App - June 2019 
+> github.com/db101097/CunyFirst2.0
 * Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
 ---
 
