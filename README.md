@@ -44,14 +44,15 @@ Built full-stack web app with React, Redux, Node, Express, Sequelize ORM
 * Gained skills in Predictive modeling, python programming, DataViz and model selection
 * Hands on Labs for importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
 * Dedicated for 6 weeks for atleast 2 hours per week.
-* [__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
+
+### 2. [__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
 >[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
 
-### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
+### 3. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
 
 * Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
 
-### 3. Microsoft Business Intelligence Stack
+### 4. Microsoft Business Intelligence Stack
 https://github.com/topgyaltsering/msbi
 - Learned Advanced TSQL: views, stored procedure, CTEs, triggers
 - Worked on SQL Server Management Studio (SSMS) 
@@ -59,17 +60,18 @@ https://github.com/topgyaltsering/msbi
 - SSAS for OLAP 
 - SSRS, Power BI for Reporting
 
-### Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
+### 5. Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
 > https://github.com/topgyaltsering/python_for_everybody_hw
 * Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
 
-### Machine Learning Algorithms from Scratch - Dec 2019
+### 6. Machine Learning Algorithms from Scratch - Dec 2019
 > github.com/topgyaltsering/capstone-project
 * Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
 
-### CunyFirst2.0, Full Stack Web App - June 2019 
+### 7. CunyFirst2.0, Full Stack Web App - June 2019 
 > github.com/db101097/CunyFirst2.0
 * Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
+
 ---
 
 ### Certificates
