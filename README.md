@@ -2,11 +2,10 @@
 
 ## Experiences
 
-
-
 ### 1. Cybersecurity Curriculum consultant at CUNY2X -Research Foundation at Hunter College
-* Adaapt various resources including CloudLab cloud and network security labs, the Codepath cybersecurity curriculum, and various CTFs into a possible Hunter course.
+* Adapt various resources including CloudLab cloud and network security labs, the Codepath cybersecurity curriculum, and various CTFs into a possible Hunter course.
 * Hunter CUNY2X seeks to combine projects from a few different sources into a cybersecurity extra curricular offering
+* Researched various cybersecurity curriculum resources & participated in 13 weeks Codepath CyberSecurity Course at Baruch College
 
 ### 2. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
 
@@ -17,30 +16,20 @@ different tables and databases for complex business logic.
 * Created charts, dashboards and reports in Company's Data Catalog integrated with Apache Superset Business Intelligence Web Appication
 * Solved complex issue in frontend report map chart for deck.gl polygon geovisualization using Well Known Text(WKT) with efficient BigQuery SQL queries.
 
-### 2. Student ML Researcher for Statistical Machine Learning & Translation Group 
+### 3. Student ML Researcher for Statistical Machine Learning & Translation Group 
 > [Professor Jia Xu](http://www.jiaxu.org/) at Hunter College 
 
 * Gained in-depth concepts on NLP, deep learning models by analyzing state of the art models research paper on arXiv repo like [codenn](https://github.com/sriniiyer/codenn)
 * Experimented with models to implement on crime prediction datasets
 * Trained deep learning models on CUNY HPC using TensorFlow, PyTorch, linux and Nvidia CUDA to test performance 
 
-### 3. NYC Tech Talent Pipeline, Hunter College, NY—Tech Fellow
-> March 2019 - June 2019
-* Selected for competitive boot-camp that covered full-stack software development methodology in Agile Scrum
-Built full-stack web app with React, Redux, Node, Express, Sequelize ORM
-
-## Others
-
-### Student Software Engineer at NYC Tech Talent Pipeline
+### 4. Student Software Engineer at NYC Tech Talent Pipeline
 >[Cuny 2x Tech](https://www.techtalentpipeline.nyc/cs-doubling)
 
 * Selected for competitive boot-camp: [Tech Talent Pipeline Residency](https://github.com/huntercuny2x/summer19bootcamp) that covered full-stack software development in Agile Scrum
 * Used Advanced Javascript concepts, DOM Manipulation, external API requests
 * Built full stack web application with React, Redux, Node, Express, Sequelize ORM for PostgreSQL and deployed in Heroku
 
-### Hunter CUNY 2X, Manhattan, NY — Curriculum Consultant
-> Aug 2020 - Feb 2021
-* Researched various cybersecurity curriculum resources & participated in 13 weeks Codepath CyberSecurity Course at Baruch College
 
 ## Projects
 
@@ -51,7 +40,7 @@ Built full-stack web app with React, Redux, Node, Express, Sequelize ORM
 * Hands on Labs for importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
 * Dedicated for 6 weeks for atleast 2 hours per week.
 
-### 2. [__Data Analysis with Python__](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
+### 2. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
 >[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
 
 ### 3. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
