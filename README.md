@@ -2,7 +2,13 @@
 
 ## Experiences
 
-### 1. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
+
+
+### 1. Cybersecurity Curriculum consultant at CUNY2X -Research Foundation at Hunter College
+* Adaapt various resources including CloudLab cloud and network security labs, the Codepath cybersecurity curriculum, and various CTFs into a possible Hunter course.
+* Hunter CUNY2X seeks to combine projects from a few different sources into a cybersecurity extra curricular offering
+
+### 2. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
 
 * Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, CTEs and sub-queries involving multiple tables from
 different tables and databases for complex business logic.
