@@ -2,12 +2,12 @@
 
 ## Experiences
 
-### 1. Cybersecurity Curriculum consultant at CUNY2X -Research Foundation at Hunter College
+### 1. Cybersecurity Curriculum Consultant at CUNY2X - Research Foundation (RFCUNY) at Hunter College
 * Adapt various resources including CloudLab cloud and network security labs, the Codepath cybersecurity curriculum, and various CTFs into a possible Hunter course.
 * Hunter CUNY2X seeks to combine projects from a few different sources into a cybersecurity extra curricular offering
 * Researched various cybersecurity curriculum resources & participated in 13 weeks Codepath CyberSecurity Course at Baruch College
 
-### 2. Data Engineer Intern at Real Factors (now Acquired by 7Park Data)
+### 2. Data Engineer Intern at Real Factors (acquired by 7Park Data)
 
 * Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, CTEs and sub-queries involving multiple tables from
 different tables and databases for complex business logic.
@@ -16,8 +16,8 @@ different tables and databases for complex business logic.
 * Created charts, dashboards and reports in Company's Data Catalog integrated with Apache Superset Business Intelligence Web Appication
 * Solved complex issue in frontend report map chart for deck.gl polygon geovisualization using Well Known Text(WKT) with efficient BigQuery SQL queries.
 
-### 3. Student ML Researcher for Statistical Machine Learning & Translation Group 
-> [Professor Jia Xu](http://www.jiaxu.org/) at Hunter College 
+### 3. Student ML Researcher for Statistical Machine Learning & Translation Group at Hunter College 
+> [Professor Jia Xu](http://www.jiaxu.org/) 
 
 * Gained in-depth concepts on NLP, deep learning models by analyzing state of the art models research paper on arXiv repo like [codenn](https://github.com/sriniiyer/codenn)
 * Experimented with models to implement on crime prediction datasets
@@ -33,21 +33,19 @@ different tables and databases for complex business logic.
 
 ## Projects
 
-### 1. Data Analysis with Python
+### 1. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
 >[Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
+>>[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
 
 * Gained skills in Predictive modeling, python programming, DataViz and model selection
 * Hands on Labs for importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
 * Dedicated for 6 weeks for atleast 2 hours per week.
 
-### 2. [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python), Course 6 of Specialization: IBM Data Science Powered by Coursera
->[_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
-
-### 3. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
+### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
 
 * Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
 
-### 4. Microsoft Business Intelligence Stack
+### 3. Microsoft Business Intelligence Stack
 https://github.com/topgyaltsering/msbi
 - Learned Advanced TSQL: views, stored procedure, CTEs, triggers
 - Worked on SQL Server Management Studio (SSMS) 
@@ -55,16 +53,16 @@ https://github.com/topgyaltsering/msbi
 - SSAS for OLAP 
 - SSRS, Power BI for Reporting
 
-### 5. Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
+### 4. Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
 > https://github.com/topgyaltsering/python_for_everybody_hw
 * Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
 
-### 6. Machine Learning Algorithms from Scratch - Dec 2019
-> github.com/topgyaltsering/capstone-project
+### 5. Machine Learning Algorithms from Scratch - Dec 2019
+> https://github.com/topgyaltsering/capstone-project
 * Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
 
-### 7. CunyFirst2.0, Full Stack Web App - June 2019 
-> github.com/db101097/CunyFirst2.0
+### 6. CunyFirst2.0, Full Stack Web App - June 2019 
+> https://github.com/db101097/CunyFirst2.0
 * Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
 
 ---
