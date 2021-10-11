@@ -12,7 +12,7 @@
   <img align="left" alt="Topgyal Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 
-<!-- [<img align="center" width="30" height="30" src="Images/medium-line.png">](https:topgyaltsering.medium.com)
+<!-- [<img align="center" width="30" height="30" src="Images/medium-line.png">](https://topgyaltsering.medium.com)
 
 [<img align="center" width="30" height="30" src="Images/twitter-fill.png">](https://twitter.com/topgyalgurung)
 
