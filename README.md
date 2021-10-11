@@ -47,7 +47,7 @@ different tables and databases for complex business logic.
 * Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
 
 ### 3. Microsoft Business Intelligence Stack
-      https://github.com/topgyaltsering/msbi
+> https://github.com/topgyaltsering/msbi
 - Learned Advanced TSQL: views, stored procedure, CTEs, triggers
 - Worked on SQL Server Management Studio (SSMS) 
 - SSIS Integration tool for OLTP
@@ -55,15 +55,15 @@ different tables and databases for complex business logic.
 - SSRS, Power BI for Reporting
 
 ### 4. Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
-      https://github.com/topgyaltsering/python_for_everybody_hw
+> https://github.com/topgyaltsering/python_for_everybody_hw
 * Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
 
 ### 5. Machine Learning Algorithms from Scratch - Dec 2019
-      https://github.com/topgyaltsering/capstone-project
+> https://github.com/topgyaltsering/capstone-project
 * Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
 
 ### 6. CunyFirst2.0, Full Stack Web App - June 2019 
-      https://github.com/db101097/CunyFirst2.0
+> https://github.com/db101097/CunyFirst2.0
 * Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
 
 ---
