@@ -1,5 +1,7 @@
 <img align="right" width="100" height="100" src="Images/tops.jpg">
 
+## Experiences
+
 <a href="https://www.linkedin.com/in/topgyaltsering/">
   <img align="right" alt="Topgyal Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
@@ -20,11 +22,8 @@
 
 [<img align="center" width="30" height="30" src="Images/linkedin-box-fill.png">](https://www.linkedin.com/in/topgyaltsering/) -->
 
----
-
-## Experiences
-
 ### 1. Cybersecurity Curriculum Consultant at CUNY2X - Research Foundation (RFCUNY) at Hunter College
+
 * Adapt various resources including CloudLab cloud and network security labs, the Codepath cybersecurity curriculum, and various CTFs into a possible Hunter course.
 * Hunter CUNY2X seeks to combine projects from a few different sources into a cybersecurity extra curricular offering
 * Researched various cybersecurity curriculum resources & participated in 13 weeks Codepath CyberSecurity Course at Baruch College
