@@ -70,16 +70,21 @@ different tables and databases for complex business logic.
 ---
 
 ### Certificates
-- [Big Data Analytics with Hadoop and Apache Spark](https://github.com/topgyaltsering/Topgyal_Portfolio/blob/d08cfe594d3254800cd49892b4d2a39293f9c513/Images/CertificateOfCompletion_Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.pdf)
-- [Docker Essentials & Building a Containerized Web Application](https://www.coursera.org/account/accomplishments/verify/XK526CW7ALDG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
-- [MySQL with Information Technology](https://www.coursera.org/account/accomplishments/verify/BRXDRVFUA36P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
-- [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NEVGFASUB5EK)
-- [AWS Academy Cloud Foundations](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=hbISvH4o_kCcoqRERDJ4Lg2)
-- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [Microsoft Power BI- Up & Running with Power BI Desktop](https://udemy-certificate.s3.amazonaws.com/image/UC-a2a41c94-e91b-42ca-94c0-fa7383c9d36b.jpg)
-- [Power BI- Publishing to Power BI Service](https://www.udemy.com/certificate/UC-25528088-299c-4b50-9958-830b48ef82f1/)
-- [Tableau Visual Best Practices](https://www.udemy.com/certificate/UC-9994919d-1960-4409-ab6f-80d1a1fd32ca/)
-- [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
+- Python:
+  - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NEVGFASUB5EK)
+  - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- Big Data:
+  - Hadoop & Spark: [Big Data Analytics with Hadoop and Apache Spark](https://github.com/topgyaltsering/Topgyal_Portfolio/blob/d08cfe594d3254800cd49892b4d2a39293f9c513/Images/CertificateOfCompletion_Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.pdf)
+  - Docker: [Docker Essentials & Building a Containerized Web Application](https://www.coursera.org/account/accomplishments/verify/XK526CW7ALDG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+- Cloud:
+  - [AWS Academy Cloud Foundations](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=hbISvH4o_kCcoqRERDJ4Lg2)
+- Data Visualization:
+  - [Microsoft Power BI- Up & Running with Power BI Desktop](https://udemy-certificate.s3.amazonaws.com/image/UC-a2a41c94-e91b-42ca-94c0-fa7383c9d36b.jpg)
+  - [Power BI- Publishing to Power BI Service](https://www.udemy.com/certificate/UC-25528088-299c-4b50-9958-830b48ef82f1/)
+  - [Tableau Visual Best Practices](https://www.udemy.com/certificate/UC-9994919d-1960-4409-ab6f-80d1a1fd32ca/)
+- Database Management:
+  - MySQL: [MySQL with Information Technology](https://www.coursera.org/account/accomplishments/verify/BRXDRVFUA36P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+  - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
 - [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
 
 <a href="https://www.linkedin.com/in/topgyaltsering/">
