@@ -16,7 +16,7 @@ different tables and databases for complex business logic.
 * Constructed ELT and used transformations, aggregations and filtered data on Data Catalog
 * Created charts, dashboards and reports in Company's Data Catalog integrated with Apache Superset Business Intelligence Web Appication
 * Solved complex issue in frontend report map chart for deck.gl polygon geovisualization using Well Known Text(WKT) with efficient BigQuery SQL queries.[ View slide](https://docs.google.com/presentation/d/15QmY9V2Qtz8YMCPYqxu_eg9me29T9cMlxtZCWrCSlY8/edit?usp=sharing)
-* [Watch Time series deck.gl chart](https://drive.google.com/drive/u/0/folders/1CZ4Ha2eJODgbuAIaeOFeW-MC1RHJBJit)
+* [Watch Time series deck.gl chart](https://drive.google.com/file/d/1KcR1OT7JwLgh2p-goWxNkOdG4b4rggYg/view?usp=sharing)
 
 ### 3. Student ML Researcher for Statistical Machine Learning & Translation Group at Hunter College 
 > [Professor Jia Xu](http://www.jiaxu.org/) 
