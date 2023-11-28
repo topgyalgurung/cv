@@ -1,14 +1,20 @@
 <img align="right" width="100" height="100" src="Images/tops.jpg">
 
-## Experiences
+## Work Experiences
 
-### 1. Cybersecurity Curriculum Consultant at CUNY2X - Research Foundation (RFCUNY) at Hunter College
+### 1. Associates/Executive Assistant to CEO 
+* Streamlined office operations by implementing new systems for document and contact management, and vendor relations
+* Managed various third parties’ contracts, bookings; researched and followed up on incoming issues
+* Orchestrated principal’s daily schedule of appointments, communications, travel, and office administration in the areas of education, music, and business with attention to detail and discretion 
+*	Collaborated with vendor’s teams and managed projects using Asana, basecamp, google docs to complete phases of projects.
+
+### 2. Cybersecurity Curriculum Consultant at CUNY2X - Research Foundation (RFCUNY) at Hunter College
 
 * Adapt various resources including CloudLab cloud and network security labs, the Codepath cybersecurity curriculum, and various CTFs into a possible Hunter course.
 * Hunter CUNY2X seeks to combine projects from a few different sources into a cybersecurity extra curricular offering
 * Researched various cybersecurity curriculum resources & participated in 13 weeks Codepath CyberSecurity Course at Baruch College
 
-### 2. Data Engineer Intern at Real Factors (acquired by 7Park Data)
+### 3. Data Engineer Intern at Real Factors (acquired by 7Park Data)
 
 * Wrote production level SQL queries with views, complex joins, aggregations, user-defined functions, unions, CTEs and sub-queries involving multiple tables from
 different tables and databases for complex business logic.
@@ -18,14 +24,14 @@ different tables and databases for complex business logic.
 * Solved complex issue in frontend report map chart for deck.gl polygon geovisualization using Well Known Text(WKT) with efficient BigQuery SQL queries.[ View slide](https://docs.google.com/presentation/d/15QmY9V2Qtz8YMCPYqxu_eg9me29T9cMlxtZCWrCSlY8/edit?usp=sharing)
 * [Watch Time series deck.gl chart](https://youtu.be/H1bMahZgV9c?si=HUwuXYKMQ0XQjIEe)
 
-### 3. Student ML Researcher for Statistical Machine Learning & Translation Group at Hunter College 
+### 4. Student ML Researcher for Statistical Machine Learning & Translation Group at Hunter College 
 > [Professor Jia Xu](http://www.jiaxu.org/) 
 
 * Gained in-depth concepts on NLP, deep learning models by analyzing state of the art models research paper on arXiv repo like [codenn](https://github.com/sriniiyer/codenn)
 * Experimented with models to implement on crime prediction datasets
 * Trained deep learning models on CUNY HPC using TensorFlow, PyTorch, linux and Nvidia CUDA to test performance 
 
-### 4. Student Software Engineer at NYC Tech Talent Pipeline
+### 5. Student Software Engineer at NYC Tech Talent Pipeline
 >[Cuny 2x Tech](https://www.techtalentpipeline.nyc/cs-doubling)
 
 * Selected for competitive boot-camp: [Tech Talent Pipeline Residency](https://github.com/huntercuny2x/summer19bootcamp) that covered full-stack software development in Agile Scrum
