@@ -1,5 +1,58 @@
 <img align="right" width="100" height="100" src="Images/tops.jpg">
 
+## Projects
+
+### 1. Data Analysis with Python, Course 6 of Specialization: IBM Data Science Powered by Coursera, 
+- [_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
+> [Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
+
+
+* Gained skills in Predictive modeling, python programming, DataViz and model selection
+* Hands on Labs for importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
+* Dedicated for 6 weeks for atleast 2 hours per week.
+
+### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
+
+* Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
+
+### 3. Microsoft Business Intelligence Stack
+> https://github.com/topgyaltsering/msbi
+- Learned Advanced TSQL: views, stored procedure, CTEs, triggers
+- Worked on SQL Server Management Studio (SSMS) 
+- SSIS Integration tool for OLTP
+- SSAS for OLAP 
+- SSRS, Power BI for Reporting
+
+### 4. Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
+> https://github.com/topgyaltsering/python_for_everybody_hw
+* Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
+
+### 5. Machine Learning Algorithms from Scratch - Dec 2019
+> https://github.com/topgyaltsering/capstone-project
+* Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
+
+### 6. CunyFirst2.0, Full Stack Web App - June 2019 
+> https://github.com/db101097/CunyFirst2.0
+* Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
+* 
+### Certificates
+- Python:
+  - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NEVGFASUB5EK)
+  - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- Big Data:
+  - Hadoop & Spark: [Big Data Analytics with Hadoop and Apache Spark](https://github.com/topgyaltsering/Topgyal_Portfolio/blob/d08cfe594d3254800cd49892b4d2a39293f9c513/Images/CertificateOfCompletion_Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.pdf)
+  - Docker: [Docker Essentials & Building a Containerized Web Application](https://www.coursera.org/account/accomplishments/verify/XK526CW7ALDG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+- Cloud:
+  - [AWS Academy Cloud Foundations](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=hbISvH4o_kCcoqRERDJ4Lg2)
+- Data Visualization:
+  - [Microsoft Power BI- Up & Running with Power BI Desktop](https://udemy-certificate.s3.amazonaws.com/image/UC-a2a41c94-e91b-42ca-94c0-fa7383c9d36b.jpg)
+  - [Power BI- Publishing to Power BI Service](https://www.udemy.com/certificate/UC-25528088-299c-4b50-9958-830b48ef82f1/)
+  - [Tableau Visual Best Practices](https://www.udemy.com/certificate/UC-9994919d-1960-4409-ab6f-80d1a1fd32ca/)
+- Database Management:
+  - MySQL: [MySQL with Information Technology](https://www.coursera.org/account/accomplishments/verify/BRXDRVFUA36P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
+  - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
+- [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
+
 ## Work Experiences
 
 ### 1. Associates/Executive Assistant to CEO 
@@ -38,61 +91,8 @@ different tables and databases for complex business logic.
 * Used Advanced Javascript concepts, DOM Manipulation, external API requests
 * Built full stack web application with React, Redux, Node, Express, Sequelize ORM for PostgreSQL and deployed in Heroku
 
-
-## Projects
-
-### 1. Data Analysis with Python, Course 6 of Specialization: IBM Data Science Powered by Coursera, 
-- [_View Certificate_](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS)
-> [Analyze & Predict Housing Prices in King County, USA](https://github.com/topgyaltsering/dataAnalysiswithPython)
-
-
-* Gained skills in Predictive modeling, python programming, DataViz and model selection
-* Hands on Labs for importing datasets, data wrangling, exploratory data analysis, model development, model evaluation and final project to analyse and predict housing prices in King County, USA
-* Dedicated for 6 weeks for atleast 2 hours per week.
-
-### 2. [Data Analysis on Demand by General Assembly](https://generalassemb.ly/education/learn-data-analysis-online) Completed
-
-* Learned Data Wrangling, Exploring Data, Interpreting Data, Communicating Insights and SQL
-
-### 3. Microsoft Business Intelligence Stack
-> https://github.com/topgyaltsering/msbi
-- Learned Advanced TSQL: views, stored procedure, CTEs, triggers
-- Worked on SQL Server Management Studio (SSMS) 
-- SSIS Integration tool for OLTP
-- SSAS for OLAP 
-- SSRS, Power BI for Reporting
-
-### 4. Coursera Python for Everybody by University of Michigan - Mar 2021- July 2021
-> https://github.com/topgyaltsering/python_for_everybody_hw
-* Python data structures, using python to access web data, using databases with python, capstone: retrieving, processing, and visualizing data
-
-### 5. Machine Learning Algorithms from Scratch - Dec 2019
-> https://github.com/topgyaltsering/capstone-project
-* Built KNN, K-Means, and Decision Trees Algorithms from Scratch on UCI Datasets using python, pandas, numpy, and Jupyter Notebook, also used Weka JVM for testing and results.
-
-### 6. CunyFirst2.0, Full Stack Web App - June 2019 
-> https://github.com/db101097/CunyFirst2.0
-* Group Project: A tool to simplify creating schedule on CUNYFirst course registration using React, Express and Sequelize ORM
-
 ---
 
-### Certificates
-- Python:
-  - [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/NEVGFASUB5EK)
-  - [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/HUVP4FJCLGCS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- Big Data:
-  - Hadoop & Spark: [Big Data Analytics with Hadoop and Apache Spark](https://github.com/topgyaltsering/Topgyal_Portfolio/blob/d08cfe594d3254800cd49892b4d2a39293f9c513/Images/CertificateOfCompletion_Big%20Data%20Analytics%20with%20Hadoop%20and%20Apache%20Spark.pdf)
-  - Docker: [Docker Essentials & Building a Containerized Web Application](https://www.coursera.org/account/accomplishments/verify/XK526CW7ALDG?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
-- Cloud:
-  - [AWS Academy Cloud Foundations](https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=hbISvH4o_kCcoqRERDJ4Lg2)
-- Data Visualization:
-  - [Microsoft Power BI- Up & Running with Power BI Desktop](https://udemy-certificate.s3.amazonaws.com/image/UC-a2a41c94-e91b-42ca-94c0-fa7383c9d36b.jpg)
-  - [Power BI- Publishing to Power BI Service](https://www.udemy.com/certificate/UC-25528088-299c-4b50-9958-830b48ef82f1/)
-  - [Tableau Visual Best Practices](https://www.udemy.com/certificate/UC-9994919d-1960-4409-ab6f-80d1a1fd32ca/)
-- Database Management:
-  - MySQL: [MySQL with Information Technology](https://www.coursera.org/account/accomplishments/verify/BRXDRVFUA36P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)
-  - [MongoDB Basics](https://university.mongodb.com/course_completion/f9c45541-c2c9-4051-a67f-7cb836852c52)
-- [Google Analytics for Beginners](https://analytics.google.com/analytics/academy/certificate/KaoobM0eQDSR9IFQP3kHpQ)
 
 <a href="https://www.linkedin.com/in/topgyaltsering/">
   <img align="left" alt="Topgyal Linkedin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
